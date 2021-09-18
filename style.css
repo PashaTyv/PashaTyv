@@ -153,7 +153,6 @@ body{
 .cv-block .info-card.contact-info .icon{
     font-size: 1.3em;
     color: #c9c9c9;
-    position: relative;
     bottom: 4px;
 }
 
@@ -171,7 +170,6 @@ body{
     color: #282b2d;
     font-size: 18px;
 }
-
 
 .page-footer .social-icons a{
     margin: 0 3px;
